@@ -1,0 +1,240 @@
+[2026-02-14 20:04:42] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/fojeo]
+{
+    "type": "404",
+    "message": "Controller non trovato: FojeoController<br>URI: \/apiSerio\/serioApi\/fojeo<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/fojeo"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-14 20:04:43] [INFO] [IP: 127.0.0.1] [URI: /favicon.ico]
+{
+    "type": "404",
+    "message": "Controller non trovato: Favicon.icoController<br>URI: \/favicon.ico<br>Metodo: index",
+    "uri": "\/favicon.ico"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-14 20:20:26] [INFO] [IP: 127.0.0.1] [URI: /favicon.ico]
+{
+    "type": "404",
+    "message": "Controller non trovato: Favicon.icoController<br>URI: \/favicon.ico<br>Metodo: index",
+    "uri": "\/favicon.ico"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-14 20:27:09] [INFO] [IP: 127.0.0.1] [URI: /favicon.ico]
+{
+    "type": "404",
+    "message": "Controller non trovato: Favicon.icoController<br>URI: \/favicon.ico<br>Metodo: index",
+    "uri": "\/favicon.ico"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-14 20:28:36] [INFO] [IP: 127.0.0.1] [URI: /favicon.ico]
+{
+    "type": "404",
+    "message": "Controller non trovato: Favicon.icoController<br>URI: \/favicon.ico<br>Metodo: index",
+    "uri": "\/favicon.ico"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 10:32:25] [INFO] [IP: 127.0.0.1] [URI: /favicon.ico]
+{
+    "type": "404",
+    "message": "Controller non trovato: Favicon.icoController<br>URI: \/favicon.ico<br>Metodo: index",
+    "uri": "\/favicon.ico"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 10:34:10] [INFO] [IP: 127.0.0.1] [URI: /favicon.ico]
+{
+    "type": "404",
+    "message": "Controller non trovato: Favicon.icoController<br>URI: \/favicon.ico<br>Metodo: index",
+    "uri": "\/favicon.ico"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:05:33] [INFO] [IP: 127.0.0.1] [URI: /favicon.ico]
+{
+    "type": "404",
+    "message": "Controller non trovato: Favicon.icoController<br>URI: \/favicon.ico<br>Metodo: index",
+    "uri": "\/favicon.ico"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:06:43] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/README.md]
+{
+    "type": "404",
+    "message": "Controller non trovato: README.mdController<br>URI: \/apiSerio\/serioApi\/README.md<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/README.md"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:09:17] [INFO] [IP: 127.0.0.1] [URI: /favicon.ico]
+{
+    "type": "404",
+    "message": "Controller non trovato: Favicon.icoController<br>URI: \/favicon.ico<br>Metodo: index",
+    "uri": "\/favicon.ico"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:09:32] [INFO] [IP: 127.0.0.1] [URI: /sm/80ab6bb7f46341a19c9640e6091089491733986ca6139231b5e3060ce2b68801.map]
+{
+    "type": "404",
+    "message": "Controller non trovato: SmController<br>URI: \/sm\/80ab6bb7f46341a19c9640e6091089491733986ca6139231b5e3060ce2b68801.map<br>Metodo: 80ab6bb7f46341a19c9640e6091089491733986ca6139231b5e3060ce2b68801.map",
+    "uri": "\/sm\/80ab6bb7f46341a19c9640e6091089491733986ca6139231b5e3060ce2b68801.map"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:25:46] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:25:46] [INFO] [IP: 127.0.0.1] [URI: /home/acca/Scrivania/APIIII/serioApi/core/errors/error-styles.css]
+{
+    "type": "404",
+    "message": "Metodo 'acca' non trovato nel controller 'HomeController'",
+    "uri": "\/home\/acca\/Scrivania\/APIIII\/serioApi\/core\/errors\/error-styles.css"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:26:21] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:26:21] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/error-styles.css]
+{
+    "type": "404",
+    "message": "Controller non trovato: Error-styles.cssController<br>URI: \/apiSerio\/serioApi\/error-styles.css<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/error-styles.css"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:26:40] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:26:40] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/error-styles.css]
+{
+    "type": "404",
+    "message": "Controller non trovato: Error-styles.cssController<br>URI: \/apiSerio\/serioApi\/error-styles.css<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/error-styles.css"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:28:03] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:29:24] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:29:56] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:33:33] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:35:11] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:35:54] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:36:02] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 11:37:05] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 12:03:21] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/iefiehfifhe]
+{
+    "type": "404",
+    "message": "Controller non trovato: IefiehfifheController<br>URI: \/apiSerio\/serioApi\/iefiehfifhe<br>Metodo: index",
+    "uri": "\/apiSerio\/serioApi\/iefiehfifhe"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 12:12:03] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/deploy/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.accaicedtea.altervista.org&ftp_port=21&ftp_user=accaicedtea&ftp_pass=uthc8An48aA7&ftp_path=%2Fmymenuu&ftp_ssl=on]
+{
+    "type": "404",
+    "message": "Controller non trovato: DeployController<br>URI: \/apiSerio\/serioApi\/deploy\/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.accaicedtea.altervista.org&ftp_port=21&ftp_user=accaicedtea&ftp_pass=uthc8An48aA7&ftp_path=%2Fmymenuu&ftp_ssl=on<br>Metodo: upload",
+    "uri": "\/apiSerio\/serioApi\/deploy\/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.accaicedtea.altervista.org&ftp_port=21&ftp_user=accaicedtea&ftp_pass=uthc8An48aA7&ftp_path=%2Fmymenuu&ftp_ssl=on"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 12:20:21] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/deploy/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.thisisnotmysite.altervista.org&ftp_port=21&ftp_user=thisisnotmysite&ftp_pass=puT59Uqedtjd&ftp_path=%2Fmymenuu&ftp_ssl=on]
+{
+    "type": "404",
+    "message": "Controller non trovato: DeployController<br>URI: \/apiSerio\/serioApi\/deploy\/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.thisisnotmysite.altervista.org&ftp_port=21&ftp_user=thisisnotmysite&ftp_pass=puT59Uqedtjd&ftp_path=%2Fmymenuu&ftp_ssl=on<br>Metodo: upload",
+    "uri": "\/apiSerio\/serioApi\/deploy\/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.thisisnotmysite.altervista.org&ftp_port=21&ftp_user=thisisnotmysite&ftp_pass=puT59Uqedtjd&ftp_path=%2Fmymenuu&ftp_ssl=on"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 12:26:25] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/deploy/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.thisisnotmysite.altervista.org&ftp_port=21&ftp_user=thisisnotmysite&ftp_pass=puT59Uqedtjd&ftp_path=%2Fmymenuu&ftp_ssl=on]
+{
+    "type": "404",
+    "message": "Controller non trovato: DeployController<br>URI: \/apiSerio\/serioApi\/deploy\/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.thisisnotmysite.altervista.org&ftp_port=21&ftp_user=thisisnotmysite&ftp_pass=puT59Uqedtjd&ftp_path=%2Fmymenuu&ftp_ssl=on<br>Metodo: upload",
+    "uri": "\/apiSerio\/serioApi\/deploy\/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.thisisnotmysite.altervista.org&ftp_port=21&ftp_user=thisisnotmysite&ftp_pass=puT59Uqedtjd&ftp_path=%2Fmymenuu&ftp_ssl=on"
+}
+--------------------------------------------------------------------------------
+
+[2026-02-15 12:43:56] [INFO] [IP: 127.0.0.1] [URI: /apiSerio/serioApi/deploy/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.thisisnotmysite.altervista.org&ftp_port=21&ftp_user=thisisnotmysite&ftp_pass=puT59Uqedtjd&ftp_path=%2Fmymenu&ftp_ssl=on]
+{
+    "type": "404",
+    "message": "Controller non trovato: DeployController<br>URI: \/apiSerio\/serioApi\/deploy\/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.thisisnotmysite.altervista.org&ftp_port=21&ftp_user=thisisnotmysite&ftp_pass=puT59Uqedtjd&ftp_path=%2Fmymenu&ftp_ssl=on<br>Metodo: upload",
+    "uri": "\/apiSerio\/serioApi\/deploy\/upload?csrf_token=0b24a9b36870053dd3af9e804d331165832a09e40ee7356f795efc6ac08b96f1&ftp_host=ftp.thisisnotmysite.altervista.org&ftp_port=21&ftp_user=thisisnotmysite&ftp_pass=puT59Uqedtjd&ftp_path=%2Fmymenu&ftp_ssl=on"
+}
+--------------------------------------------------------------------------------
+
