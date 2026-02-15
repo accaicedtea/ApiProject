@@ -1,5 +1,7 @@
 # SerioApi
 
+*** Questo è un link alle [Api online]([https://www.google.com](https://accaicedtea.altervista.org/apiSerio/serioApi/)). ***
+
 **Generatore automatico di API REST in PHP da qualsiasi database MySQL/MariaDB.**
 
 ---
